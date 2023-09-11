@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.component-main-div{
+  display: inline-block;
+  text-align: center;
+}
+
+.Navbar-class{
+  margin-bottom: 20px;
+  background-color: rgb(19, 68, 44);
+}
+
+.home-page-Link-class{
+  margin: 5px 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.home-page-Link-class:hover {
+  text-decoration: underline;
+  cursor: pointer;
+
+}
+
+
+/* @media(max-width: 850px){
+  .Navbar-class{
+
+  }
+} */
