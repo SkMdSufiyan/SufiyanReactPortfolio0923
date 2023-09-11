@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+}
+
+.component-main-div{
+  display: inline-block;
+  text-align: center;
+}
+
+.Navbar-class{
+  margin-bottom: 20px;
+  /* background-color: rgb(19, 68, 44); */
+  background-color: rgb(7, 7, 95);
+}
+
+.home-page-Link-class{
+  margin: 5px 15px;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.home-page-Link-class:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  background-color: green;
+
+}
+
+.navbar-toggler-icon {
+  background-color: white; /* Change the background color to white */
+}
+
+
+
+.portfolio-body-div {
+  padding: 20px;
+  text-align: center;
+  /* border: 1px solid green; */
+  margin: 10px;
+}
+
+.element h4 {
+  text-align: left;
+  margin-left: 30px;
+  color: blue;
+}
+
+@media(min-width : 1000px){
+  .element h4{
+    margin-left: 80px;
+  }
+}
+
+.section-content-div {
+  line-height: 1.2;
+  max-width: 70%; /* Limit the width to 70% */
+  margin: 0 auto; /* Center the content horizontally within the container */
+  text-align: justify; /* Justify the text lines */
+}
+
+.image-class{
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+}
+
+
+
+td{
+  width: max-content;
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  padding: 0px 10px;
+}
+dt{
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 20px;
+}
+
+.check-link-a-class{
+  margin: 10px;
+}
+
+.name-div{
+  text-align: left;
+  margin-left: 30px;
+  text-align: justify; /* Justify the text lines */
+}
+
+@media(min-width : 1000px){
+  .name-div{
+    margin-left: 80px;
+  }
+}
+
+.name-div h4{
+  color: blue;
+}
+.name-div h1{
+  color: green;
+  /* font-size: 70px; */
+  font-size: 2.5rem;
+}
+
+.name-div h3{
+  color: grey;
+  font-size: 1.5rem;
+}
+
+
+.tech-stack-div{
+  color: green;
+}
+
+
+.small-image-class{
+  height: 40px;
+  width: 40px;
+  margin: 5px;
+}
+
+.publications-li-class{
+  font-size: small;
+}
+
+
+.check-link-a-progress-class{
+  margin : 0px;
+}
