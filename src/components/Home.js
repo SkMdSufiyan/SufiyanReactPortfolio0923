@@ -65,6 +65,8 @@ const Home = () => {
 <br />
 <br />
 <br />
+<br />
+<br />
 
     <div className='portfolio-body-div'>
         <div className='name-div'>
