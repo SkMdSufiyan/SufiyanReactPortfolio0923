@@ -75,6 +75,7 @@ const Skills = () => {
     <br />
     <br />
     <br />
+    <br />
 
     <div className='portfolio-body-div'>
     <div name="Skills" className="element">
