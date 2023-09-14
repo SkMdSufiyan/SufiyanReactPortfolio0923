@@ -64,6 +64,7 @@ const AboutMe = () => {
     <br />
     <br />
     <br />
+    <br />
 
     <div className='portfolio-body-div'>
         <div name="About Me" id='About-Me' className="element">
