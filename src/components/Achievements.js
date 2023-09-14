@@ -64,6 +64,7 @@ const Achievements = () => {
     <br />
     <br />
     <br />
+    <br />
 
     <div className='portfolio-body-div'>
     <div name="Achievements" className="element">
