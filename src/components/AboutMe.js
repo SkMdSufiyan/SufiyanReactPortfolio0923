@@ -71,7 +71,7 @@ const AboutMe = () => {
           <h4>About Me</h4>
           <br />
           <div className='section-content-div'>
-                I am a Ph.D. candidate in Electrical Engineering with a strong passion for technology and software development. Alongside my academic journey, I’ve developed expertise as a Full-Stack Developer, proficient in [MERN FSD]. My interdisciplinary background enables me to tackle complex challenges and drive innovation in engineering and software domains. Passionate, adaptable, and eager to contribute to impactful projects.
+                I am a Ph.D. candidate in Electrical Engineering with a strong passion for technology and software development. Alongside my academic journey, I’ve developed expertise as a Full-Stack Developer, proficient in MERN FSD. My interdisciplinary background enables me to tackle complex challenges and drive innovation in engineering and software domains. Passionate, adaptable, and eager to contribute to impactful projects.
                 <hr />
           </div>
         </div>
