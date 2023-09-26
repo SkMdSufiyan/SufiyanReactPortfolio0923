@@ -80,7 +80,7 @@ const Home = () => {
 
                 <span style={{marginLeft : "20px", marginRight : "20px"}}><a href="tel:+918008518446" target='_blank' rel='noopener noreferrer' className='home-check-link-a-class' style={{textDecoration : "none"}}><FontAwesomeIcon icon={faPhone} /> +91 8008518446</a></span>
 
-                <span style={{marginLeft : "20px"}}><a href="https://drive.google.com/file/d/1OWSnHYhupwlZl7r-8rrsTkRQwPU4qh4m/view?usp=sharing" target='_blank' rel='noopener noreferrer' className='home-check-link-a-class' style={{textDecoration : "none"}}> <FontAwesomeIcon icon={faFileAlt} /> My Resume</a></span>
+                <span style={{marginLeft : "20px"}}><a href="https://drive.google.com/file/d/1Sv0p7uED8UhBTe3KAHoXZkau13HPhwL1/view?usp=sharing" target='_blank' rel='noopener noreferrer' className='home-check-link-a-class' style={{textDecoration : "none"}}> <FontAwesomeIcon icon={faFileAlt} /> My Resume</a></span>
             </div>
 
         </div>   
